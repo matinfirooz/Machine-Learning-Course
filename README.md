@@ -19,9 +19,10 @@ By the end of the course, students will have the skills to build, train, and eva
 
 ## Homework Assignments
 
+- **KMeans Clustering Implementation:** [GitHub Link](https://github.com/matinfirooz/KMeans-Clustering-Implementation.git) 
 - **Linear and Logistic Regression with Python:** [GitHub Link](https://github.com/matinfirooz/Linear-and-Logistic-Regression.git)
 
-- ** Other codes will also be loading by the end of 2025.
+- Other codes will also be loading by the end of 2025.
 ---
 
 ## References
