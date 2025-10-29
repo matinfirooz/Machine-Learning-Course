@@ -10,6 +10,7 @@
 ## Introduction
 <div style="text-align: justify;">
 This course provides a comprehensive introduction to machine learning, one of the most important and rapidly advancing fields in modern computer science and artificial intelligence. Machine learning enables systems to learn from data and make predictions or decisions without being explicitly programmed for specific tasks.
+</div>
 
 Throughout the course, students will explore core concepts and algorithms, including supervised and unsupervised learning, model evaluation, overfitting, regularization, decision trees, support vector machines, neural networks, and clustering techniques. Emphasis is placed on both theoretical foundations and practical implementation using real-world datasets.
 
