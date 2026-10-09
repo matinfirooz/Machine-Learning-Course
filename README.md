@@ -22,6 +22,8 @@ By the end of the course, students will have the skills to build, train, and eva
 
 - **KMeans Clustering Implementation:** [GitHub Link](https://github.com/matinfirooz/KMeans-Clustering-Implementation.git) 
 - **Linear and Logistic Regression with Python:** [GitHub Link](https://github.com/matinfirooz/Linear-and-Logistic-Regression.git)
+- **Convolution neural network (CNN) Using Only NumPy:** [GitHub Link](https://github.com/matinfirooz/ConvForge-NumPy.git) 
+- **Attention Mechanism Using Only NumPy:** [GitHub Link](https://github.com/matinfirooz/AttentionForge-NumPy.git)
 ---
 
 ## References
